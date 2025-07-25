@@ -4,9 +4,13 @@
 可以适用于NAT机器 开放3000 或者转发3000就行。
 ## Ready for using
 ```
+mkdir neease-proxy
+cd neease-proxy
 npm init -y
 npm install express axios cors
+
 ```
+
 
 ## Run Development Env
 ```
