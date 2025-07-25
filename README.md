@@ -1,5 +1,5 @@
 
-````markdown
+
 # Neease-proxy
 
 网易云音乐对国外API请求有加密限制，导致国外服务器直接访问失败。本项目通过国内机器做代理请求，绕过限制，适合在国内服务器部署使用。
@@ -24,7 +24,7 @@ npm install express axios cors
 ```bash
 npm uninstall express
 npm install express@4.18.2
-```
+···
 
 ---
 
