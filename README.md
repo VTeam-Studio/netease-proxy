@@ -1,6 +1,3 @@
-Michael，我帮你完善了一份 `README.md`，包含项目介绍、部署步骤和使用说明，方便你直接用。
-
----
 
 ````markdown
 # Neease-proxy
