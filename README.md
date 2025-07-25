@@ -17,9 +17,10 @@ mkdir neease-proxy
 cd neease-proxy
 npm init -y
 npm install express axios cors
-````
+```
 
 如果你用的是Express 4稳定版本（推荐）：
+
 
 ```bash
 npm uninstall express
